@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin: 5px;
-  // background-color: aquamarine;
+
   padding: 0;
 }
 
@@ -18,13 +18,11 @@ body {
 }
 
 .photo-card {
-  // background-color: rgb(198, 218, 218);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
   width: calc((100% - 60px) / 4);
-  // height: calc((100% - 200px) / 10);
 }
 
 a {
